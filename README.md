@@ -1,5 +1,5 @@
 # Password Generator<br>
-Password Generator
+Password Generator<br>
 Author: Michael Iringan<br>
 Created: 11/14/21<br>
 Modified: 11/18/21<br>
